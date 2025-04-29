@@ -40,7 +40,7 @@ This project includes:
 ---
 
 ## 🔗 Data Sources
-- [NY Open Data Portal]([https://data.ny.gov/](https://data.ny.gov/Transportation/Motor-Vehicle-Crashes-Case-Information-Three-Year-/e8ky-4vqe/about_data))
+- [NY Open Data Portal]([https://data.ny.gov/Transportation/Motor-Vehicle-Crashes-Case-Information-Three-Year-/e8ky-4vqe/about_data])
 - NOAA Winter Storm Report (Feb 12–13, 2019)
 
 ---
